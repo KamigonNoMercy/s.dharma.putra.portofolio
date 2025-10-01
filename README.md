@@ -2,13 +2,16 @@
 
 This repository contains my personal data science and analytics portfolio website.
 
+**🌐 Live site:**  
+[https://kamigonnomercy.github.io/s.dharma.putra.portofolio/](https://kamigonnomercy.github.io/s.dharma.putra.portofolio/)
+
 ## Features
-- About section
-- Skills showcase
-- Projects with filters and search
-- Contact section
-- Work-in-Progress modal for ongoing projects
-- Responsive design (HTML, TailwindCSS)
+- About section  
+- Skills showcase  
+- Projects with filters and search  
+- Contact section  
+- Work-in-Progress modal for ongoing projects  
+- Responsive design (HTML, TailwindCSS)  
 
 ## Structure
 - index.html → main site
@@ -19,5 +22,3 @@ This repository contains my personal data science and analytics portfolio websit
 
 ## Deployment
 Hosted on GitHub Pages.
-
-

@@ -2,7 +2,7 @@
 
 Personal data science & analytics portfolio.
 
-**🌐 Live:** [https://kamigonnomercy.github.io/s.dharma.putra.portofolio/](https://kamigonnomercy.github.io/s.dharma.putra.portofolio/)
+**🌐 Live:** https://kamigonnomercy.github.io/s.dharma.putra.portofolio
 
 ---
 

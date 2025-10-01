@@ -1,4 +1,4 @@
-# Portfolio — Surya Dharma Putra
+# Portfolio Surya Dharma Putra
 
 This repository contains my personal data science and analytics portfolio website.
 
